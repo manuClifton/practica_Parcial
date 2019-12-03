@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1556746762 source:c:\users\manu_\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1557689039 source:c:\users\manu_\desktop\utn\tp2\main.c
+	"function.h"
+
+1557686776 c:\users\manu_\desktop\utn\tp2\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1557689039 source:c:\users\manu_\desktop\utn\tp2\function.c
+	"function.h"
+
+1561723553 source:c:\users\manu_\desktop\utn\primer cuatrimestre\programacion y lavoratorio 1\tp 2\function.c
+	"function.h"
+
+1557686776 c:\users\manu_\desktop\utn\primer cuatrimestre\programacion y lavoratorio 1\tp 2\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1561722908 source:c:\users\manu_\desktop\utn\primer cuatrimestre\programacion y lavoratorio 1\tp 2\main.c
+	"function.h"
+

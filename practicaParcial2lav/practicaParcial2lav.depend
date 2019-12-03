@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1574462715 source:c:\users\alumno\desktop\practicaparcial2lav\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1560490130 c:\users\alumno\desktop\practicaparcial2lav\linkedlist.h
+
+1570635394 source:c:\users\alumno\desktop\practicaparcial2lav\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"biblioteca.h"
+
+1570635394 c:\users\alumno\desktop\practicaparcial2lav\biblioteca.h
+
+1574470162 source:c:\users\alumno\desktop\practicaparcial2lav\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Dominio.h"
+	"biblioteca.h"
+
+1574467388 c:\users\alumno\desktop\practicaparcial2lav\parser.h
+
+1574470813 c:\users\alumno\desktop\practicaparcial2lav\dominio.h
+	"LinkedList.h"
+
+1574471237 source:c:\users\alumno\desktop\practicaparcial2lav\dominio.c
+	"Dominio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+
+1574469749 source:c:\users\alumno\desktop\practicaparcial2lav\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"biblioteca.h"
+	"Controller.h"
+	"Dominio.h"
+
+1573395320 c:\users\alumno\desktop\practicaparcial2lav\controller.h
+
+1574471064 source:c:\users\alumno\desktop\practicaparcial2lav\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Dominio.h"
+
+1574455959 source:c:\users\manu_\desktop\practicaparcial2lav\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"biblioteca.h"
+
+1574455959 c:\users\manu_\desktop\practicaparcial2lav\biblioteca.h
+
+1574455959 source:c:\users\manu_\desktop\practicaparcial2lav\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Dominio.h"
+	"biblioteca.h"
+
+1574608276 c:\users\manu_\desktop\practicaparcial2lav\linkedlist.h
+
+1574455959 c:\users\manu_\desktop\practicaparcial2lav\parser.h
+
+1574609970 c:\users\manu_\desktop\practicaparcial2lav\dominio.h
+	"LinkedList.h"
+
+1574609553 source:c:\users\manu_\desktop\practicaparcial2lav\dominio.c
+	"Dominio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+
+1574609380 source:c:\users\manu_\desktop\practicaparcial2lav\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574609579 source:c:\users\manu_\desktop\practicaparcial2lav\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"biblioteca.h"
+	"Controller.h"
+	"Dominio.h"
+
+1574455959 c:\users\manu_\desktop\practicaparcial2lav\controller.h
+
+1574460211 source:c:\users\manu_\desktop\practicaparcial2lav\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Dominio.h"
+
+1574455959 source:c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"biblioteca.h"
+
+1574455959 c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\biblioteca.h
+
+1574455959 source:c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Dominio.h"
+	"biblioteca.h"
+
+1574696230 c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\linkedlist.h
+
+1574455959 c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\parser.h
+
+1574674805 c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\dominio.h
+	"LinkedList.h"
+
+1574674681 source:c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\dominio.c
+	"Dominio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+
+1574696218 source:c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574634673 source:c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Dominio.h"
+
+1574696113 source:c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"biblioteca.h"
+	"Controller.h"
+	"Dominio.h"
+
+1574455959 c:\users\manu_\desktop\practica_parcial\practicaparcial2lav\controller.h
+

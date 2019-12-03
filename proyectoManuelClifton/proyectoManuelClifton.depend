@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1574470360 source:c:\users\alumno\desktop\proyectomanuelclifton\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"biblioteca.h"
+
+1574470360 c:\users\alumno\desktop\proyectomanuelclifton\biblioteca.h
+
+1574728159 source:c:\users\alumno\desktop\proyectomanuelclifton\cachorro.c
+	"Cachorro.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+
+1574727265 c:\users\alumno\desktop\proyectomanuelclifton\cachorro.h
+	"LinkedList.h"
+
+1574723447 c:\users\alumno\desktop\proyectomanuelclifton\linkedlist.h
+
+1574728599 source:c:\users\alumno\desktop\proyectomanuelclifton\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Cachorro.h"
+	"biblioteca.h"
+
+1574721368 c:\users\alumno\desktop\proyectomanuelclifton\parser.h
+
+1574728599 source:c:\users\alumno\desktop\proyectomanuelclifton\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574728159 source:c:\users\alumno\desktop\proyectomanuelclifton\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"biblioteca.h"
+	"Controller.h"
+	"Cachorro.h"
+	"menu.h"
+
+1574721368 c:\users\alumno\desktop\proyectomanuelclifton\controller.h
+
+1574721093 source:c:\users\alumno\desktop\proyectomanuelclifton\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Cachorro.h"
+
+1574721695 source:c:\users\alumno\desktop\proyectomanuelclifton\menu.c
+	"menu.h"
+	"biblioteca.h"
+
+1574721695 c:\users\alumno\desktop\proyectomanuelclifton\menu.h
+
+1574470360 source:e:\proyectomanuelclifton\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"biblioteca.h"
+
+1574470360 e:\proyectomanuelclifton\biblioteca.h
+
+1574728160 source:e:\proyectomanuelclifton\cachorro.c
+	"Cachorro.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+
+1574727266 e:\proyectomanuelclifton\cachorro.h
+	"LinkedList.h"
+
+1574723448 e:\proyectomanuelclifton\linkedlist.h
+
+1574728600 source:e:\proyectomanuelclifton\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Cachorro.h"
+	"biblioteca.h"
+
+1574721370 e:\proyectomanuelclifton\parser.h
+
+1574728600 source:e:\proyectomanuelclifton\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574728160 source:e:\proyectomanuelclifton\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"biblioteca.h"
+	"Controller.h"
+	"Cachorro.h"
+	"menu.h"
+
+1574721370 e:\proyectomanuelclifton\controller.h
+
+1574721696 e:\proyectomanuelclifton\menu.h
+
+1574721696 source:e:\proyectomanuelclifton\menu.c
+	"menu.h"
+	"biblioteca.h"
+
+1574721094 source:e:\proyectomanuelclifton\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Cachorro.h"
+
+1574455960 source:c:\users\manu_\desktop\proyectomanuelclifton\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"biblioteca.h"
+
+1574455960 c:\users\manu_\desktop\proyectomanuelclifton\biblioteca.h
+
+1574852032 source:c:\users\manu_\desktop\proyectomanuelclifton\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Cachorro.h"
+	"biblioteca.h"
+
+1574709048 c:\users\manu_\desktop\proyectomanuelclifton\linkedlist.h
+
+1574706970 c:\users\manu_\desktop\proyectomanuelclifton\parser.h
+
+1574715764 c:\users\manu_\desktop\proyectomanuelclifton\cachorro.h
+	"LinkedList.h"
+
+1574714200 source:c:\users\manu_\desktop\proyectomanuelclifton\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574852080 source:c:\users\manu_\desktop\proyectomanuelclifton\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"biblioteca.h"
+	"Controller.h"
+	"Cachorro.h"
+	"menu.h"
+
+1574706970 c:\users\manu_\desktop\proyectomanuelclifton\controller.h
+
+1574707296 c:\users\manu_\desktop\proyectomanuelclifton\menu.h
+
+1574855322 source:c:\users\manu_\desktop\proyectomanuelclifton\menu.c
+	"menu.h"
+	"biblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574706694 source:c:\users\manu_\desktop\proyectomanuelclifton\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Cachorro.h"
+
+1574856309 source:c:\users\manu_\desktop\proyectomanuelclifton\cachorro.c
+	"Cachorro.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+

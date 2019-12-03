@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574436684 source:c:\users\manu_\desktop\practica_parcial\practicaparcial2prog\parcial2prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

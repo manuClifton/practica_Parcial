@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1574658871 source:c:\users\usuario\desktop\prac parcial2\practicaparcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Dominio.h"
+
+1574547913 c:\users\usuario\desktop\prac parcial2\practicaparcial2\validaciones.h
+
+1574658788 c:\users\usuario\desktop\prac parcial2\practicaparcial2\linkedlist.h
+
+1574653265 c:\users\usuario\desktop\prac parcial2\practicaparcial2\dominio.h
+
+1574658417 source:c:\users\usuario\desktop\prac parcial2\practicaparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574658344 source:c:\users\usuario\desktop\prac parcial2\practicaparcial2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574658788 source:c:\users\usuario\desktop\prac parcial2\practicaparcial2\dominio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Dominio.h"
+
+1574653241 source:c:\users\usuario\desktop\prac parcial2\practicaparcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574610688 c:\users\usuario\desktop\prac parcial2\practicaparcial2\parser.h
+
+1574610688 source:c:\users\usuario\desktop\prac parcial2\practicaparcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Dominio.h"
+
+1574610688 c:\users\usuario\desktop\prac parcial2\practicaparcial2\controller.h
+
+1574653241 source:c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574658788 c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\linkedlist.h
+
+1574610688 c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\parser.h
+
+1574653265 c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\dominio.h
+
+1574547913 c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\validaciones.h
+
+1574658788 source:c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\dominio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Dominio.h"
+
+1574658871 source:c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Dominio.h"
+
+1574658417 source:c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574610688 c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\controller.h
+
+1574610688 source:c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Dominio.h"
+
+1574658344 source:c:\users\usuario\desktop\practicandotps\prac parcial2\practicaparcial2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574638842 source:c:\users\manu_\desktop\practicaparcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574644390 c:\users\manu_\desktop\practicaparcial2\linkedlist.h
+
+1574596288 c:\users\manu_\desktop\practicaparcial2\parser.h
+
+1574638866 c:\users\manu_\desktop\practicaparcial2\dominio.h
+
+1574533514 c:\users\manu_\desktop\practicaparcial2\validaciones.h
+
+1574644390 source:c:\users\manu_\desktop\practicaparcial2\dominio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Dominio.h"
+
+1574644472 source:c:\users\manu_\desktop\practicaparcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Dominio.h"
+
+1574697820 source:c:\users\manu_\desktop\practicaparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"Dominio.h"
+	"validaciones.h"
+
+1574596288 c:\users\manu_\desktop\practicaparcial2\controller.h
+
+1574697802 source:c:\users\manu_\desktop\practicaparcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+	"LinkedList.h"
+	"Dominio.h"
+
+1574643946 source:c:\users\manu_\desktop\practicaparcial2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Dominio.h"
+	"validaciones.h"
+
